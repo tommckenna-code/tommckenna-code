@@ -1,4 +1,4 @@
-## Hi there 👋
+## See the README templpate tab above
 
 <!--
 **tommckenna-code/tommckenna-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
