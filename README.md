@@ -30,7 +30,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [COM109 Website](https://github.com/TmV-1/COM109) | Group web project — Year 1 Computing Science | HTML, CSS, JS |
+| [COM109 Website](https://github.com/TmV-1/COM109) | Group web project - Year 1 Computing Science | HTML, CSS, JS |
+| [Netscan port scanner](https://github.com/tommckenna-code/Netscan-a-network-port-scanner-) | Home Project - A network port scanner based on the IP entered, | python3, socket library |
 | [More coming...] | Building this summer | TBC |
 
 ---
@@ -38,7 +39,7 @@
 ## Currently
 
 - 🔨 Building personal projects for my placement portfolio
-- 📚 Studying for [AWS Cloud Practitioner / CS50 — pick one]
+- 📚 Studying for AWS Cloud Practitioner / CS50 
 - 🎯 Targeting software engineering, cybersecurity and networking placements for 2026
 
 ---
