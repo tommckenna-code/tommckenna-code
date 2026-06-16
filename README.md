@@ -32,6 +32,7 @@
 |---------|-------------|------|
 | [COM109 Website](https://github.com/TmV-1/COM109) | Group web project - Year 1 Computing Science | HTML, CSS, JS |
 | [Netscan port scanner](https://github.com/tommckenna-code/Netscan-a-network-port-scanner-) | Home Project - A network port scanner based on the IP entered, | python3, socket library |
+| [Vehical Diagnostic Reader](https://github.com/tommckenna-code/Vehicle-Diagnostic-Reader---OBD-II---for-cars) | Home Project - OBD-II Tool to read live vehical data and fault codes, | python3 |
 | [More coming...] | Building this summer | TBC |
 
 ---
