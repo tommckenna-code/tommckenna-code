@@ -23,7 +23,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-123456?style=social&logo=github&logoColor=white)]
+![GitHub](https://img.shields.io/badge/GitHub-123456?style=for-the-badge&logo=github&logoColor=white)   
 
 ---
 
