@@ -54,6 +54,7 @@ I build tools that talk to real hardware: reading live vehicle data over CAN bus
 | CompTIA Security+ | In progress |
 | Cisco Introduction to Cybersecurity | In progress |
 | Vector Academy CAN / CAN FD | Completed |
+| More Planned |
 
 ---
 
