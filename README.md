@@ -49,7 +49,11 @@ I build tools that talk to real hardware: reading live vehicle data over CAN bus
 
 ### Learning
 
-`CompTIA Security+ (in progress)` · `Vector Academy CAN / CAN FD`
+| Cert | Status |
+|---|---|
+| CompTIA Security+ | In progress |
+| Cisco Introduction to Cybersecurity | In progress |
+| Vector Academy CAN / CAN FD | Completed |
 
 ---
 
