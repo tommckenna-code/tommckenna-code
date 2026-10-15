@@ -1,46 +1,60 @@
-# Hi, I'm Tom McKenna 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b37a&height=190&section=header&text=Tom%20McKenna&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Automotive%20Cyber%20Security%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Networking&descSize=16&descAlignY=58" width="100%"/>
 
-**Computing Science student** at Ulster University Belfast (BSc Hons)  
-  Belfast, Northern Ireland | Placement Year: 2027/28
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00E58F&center=true&vCenter=true&width=620&lines=Reading+live+ECU+data+over+CAN+bus;Scanning+networks+and+flagging+risky+ports;Building+toward+automotive+cyber+security" />
+</p>
 
----
-
-## About Me
-
-- Entering Year 2 — placement year in Year 3
-- Interests: Full-Stack Development · AI · Cybersecurity · Cloud · Networking
-- Distinctions across Level 3 IT/Data Practitioner Diploma (Belfast Met)
-- Attended TechTides & OVI placement conferences
-- tommckenna101@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/tom-mckenna-16a200250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tommckenna101@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00E58F"/></a>
+  <img src="https://img.shields.io/badge/Placement-2027%2F28-00b37a?style=for-the-badge"/>
+</p>
 
 ---
 
-## Tech Stack
+### About
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+Computing Science (BSc Hons) student at **Ulster University Belfast**, looking for a 2027/28 placement in **automotive cyber security, embedded software or network security**.
+
+I build tools that talk to real hardware: reading live vehicle data over CAN bus, enumerating diagnostic services as a security baseline, and scanning networks for exposed services.
 
 ---
 
-## Projects
+### Tech
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [COM109 Website](https://github.com/TmV-1/COM109) | Group web project - Year 1 Computing Science | HTML, CSS, JS |
-| [Netscan port scanner](https://github.com/tommckenna-code/Netscan-a-network-port-scanner-) | Home Project - A network port scanner based on the IP entered, | python3, socket library |
-| [Vehicle Diagnostic Reader](https://github.com/tommckenna-code/Vehicle-Diagnostic-Reader---OBD-II---for-cars) | Home Project - OBD-II Tool to read live vehicle data and fault codes, | python3 |
-| [More coming...] | In prorgress | TBC |
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,bash,linux,flask,mysql,git,github,js,html,css,vscode&perline=12" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CAN%20bus-0d1117?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OBD--II%20%2F%20ISO%2015765--4-0d1117?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UDS%20(ISO%2014229)-0d1117?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ISO%2021434-0d1117?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TCP%2FIP-0d1117?style=flat-square"/>
+</p>
+
+---
+
+### Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Vehicle Diagnostic Reader**](https://github.com/tommckenna-code/Vehicle-Diagnostic-Reader---OBD-II---for-cars) | Reads live engine data and fault codes over OBD-II/CAN via ELM327, Flask dashboard, UDS service enumeration as a security baseline. Tested on a VW Golf 7.5. | Python, python-obd, Flask |
+| [**NetScan**](https://github.com/tommckenna-code/Netscan-a-network-port-scanner-) | Multi-threaded TCP port scanner that flags high-risk services. Socket rework cut scan time by 60% on 1,024 ports. | Python, sockets, Flask |
+| [COM109 Website](https://github.com/TmV-1/COM109) | Four-person group web project; ran Git branching with zero merge conflicts at deployment. | HTML, CSS, JS |
 
 ---
 
-## Currently
+### Learning
 
-- 🔨 Building personal projects for my placement portfolio
-- 📚 Studying for AWS Cloud Practitioner / CS50 / CompTIA+ qualifications  
-- 🎯 Targeting software engineering, cybersecurity and networking placements for 2026
+`CompTIA Security+ (in progress)` · `Vector Academy CAN / CAN FD`
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1500&color=00E58F&background=0D1117&center=false&vCenter=true&width=520&lines=tom%40belfast%3A~%24+echo+%22Thanks+for+visiting+%E2%80%94+let's+connect%22" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b37a,100:0d1117&height=110&section=footer" width="100%"/>
